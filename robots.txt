@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rmroster.github.io/trade-job-pricing/sitemap.xml
